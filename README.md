@@ -9,4 +9,5 @@ This repo contains solutions for all programming assignments in **deeplearning.a
   
 ## Available Solutions
 * **Neural Networks and Deep Learning**  
-  * Week 2
+  * Week 2 **(Neural Networks Basics)**
+  * Week 3 **(Shallow Neural Networks)**

@@ -1,10 +1,10 @@
-# [Course 1 of 5 in the Deep Learning Specialization](https://www.coursera.org/learn/neural-networks-deep-learning)  
+## [Course 1 of 5 in the Deep Learning Specialization](https://www.coursera.org/learn/neural-networks-deep-learning)  
    
-Contents:
+# Contents:
   * Week 2 Programming Assignments
   
 
-Coming Soon:
+# Coming Soon:
   * Week 3 programming Assignments
   * Week 4 programming Assignments
   

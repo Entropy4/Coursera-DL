@@ -8,4 +8,4 @@
   * Week 3 Programming Assignments
   * Week 4 Programming Assignments
   
-_Note: There are no programming assignments in Week 1_
+_Note: There are no programming assignments for Week 1_

@@ -5,7 +5,7 @@
   
 
 ## Coming Soon:
-  * Week 3 programming Assignments
-  * Week 4 programming Assignments
+  * Week 3 Programming Assignments
+  * Week 4 Programming Assignments
   
 _Note: There are no programming assignments in Week 1_

@@ -3,8 +3,6 @@
 ## Contents:
   * Week 2 Programming Assignments **(Neural Networks Basics)**
   * Week 3 Programming Assignments **(Shallow Neural Networks)**  
-
-## Coming Soon:
   * Week 4 Programming Assignments **(Deep Neural Networks)**
   
 _Note: There are no programming assignments for Week 1_

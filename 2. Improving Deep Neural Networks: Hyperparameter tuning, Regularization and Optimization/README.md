@@ -3,7 +3,7 @@
 ## Contents:
 
 ## Coming Soon:
-  * Week 1 Programming Assignments
+  * Week 1 Programming Assignments **(Practical aspects of Deep Learning)**
   * Week 2 Programming Assignments
   * Week 3 Programming Assignments
   

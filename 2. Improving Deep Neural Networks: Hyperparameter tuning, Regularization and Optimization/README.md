@@ -4,6 +4,6 @@
 
 ## Coming Soon:
   * Week 1 Programming Assignments **(Practical aspects of Deep Learning)**
-  * Week 2 Programming Assignments
-  * Week 3 Programming Assignments
+  * Week 2 Programming Assignments **(Optimization Algorithms)**
+  * Week 3 Programming Assignments **(Hyperparameter Tuning, Batch Normalization and Programming Frameworks)**
   

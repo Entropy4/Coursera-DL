@@ -5,6 +5,7 @@
   * Week 2 Programming Assignments **(Optimization Algorithms)**
   
 
+
 ## Coming Soon:
   * Week 3 Programming Assignments **(Hyperparameter Tuning, Batch Normalization and Programming Frameworks)**
   

@@ -14,4 +14,5 @@ This repo contains solutions for all programming assignments in **deeplearning.a
   * Week 4 **(Deep Neural Networks)**
 
 * **Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**
-  * Week 1 **(Practical aspects of Deep Learning)**
+  * Week 1 **(Practical Aspects of Deep Learning)**
+  * Week 2 **(Optimization Algorithms)**

@@ -17,3 +17,6 @@ This repo contains solutions for all programming assignments in **deeplearning.a
   * Week 1 **(Practical Aspects of Deep Learning)**
   * Week 2 **(Optimization Algorithms)**
   * Week 3 **(Hyperparameter Tuning, Batch Normalization and Programming Frameworks)**
+  
+* **Convolutional Neural Networks**
+  * Week 1 **(Foundations of Convolutional Neural Networks)**

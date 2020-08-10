@@ -1,9 +1,10 @@
 # [Convolutional Neural Networks: Course 4 of 5 in the Deep Learning Specialization](https://www.coursera.org/learn/convolutional-neural-networks)  
    
 ## Contents:
-
-## Coming Soon:
   * Week 1 Programming Assignments **(Foundations of Convolutional Neural Networks)**
+  
+  
+## Coming Soon:
   * Week 2 Programming Assignments **(Deep Convolutional Models: Case Studies)**
   * Week 3 Programming Assignments **(Object Detection)**
   * Week 4 Programming Assignments **(Special Applications: Face Recognition and Neural Style Transfer)**

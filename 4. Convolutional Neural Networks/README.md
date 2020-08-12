@@ -3,8 +3,8 @@
 ## Contents:
   * Week 1 Programming Assignments **(Foundations of Convolutional Neural Networks)**
   * Week 2 Programming Assignments **(Deep Convolutional Models: Case Studies)**  
+  * Week 3 Programming Assignments **(Object Detection)**
   
   
 ## Coming Soon:
-  * Week 3 Programming Assignments **(Object Detection)**
   * Week 4 Programming Assignments **(Special Applications: Face Recognition and Neural Style Transfer)**

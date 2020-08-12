@@ -21,3 +21,4 @@ This repo contains solutions for all programming assignments in **deeplearning.a
 * **Convolutional Neural Networks**
   * Week 1 **(Foundations of Convolutional Neural Networks)**
   * Week 2 **(Deep Convolutional Models: Case Studies)**
+  * Week 3 **(Object Detection)**

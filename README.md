@@ -27,3 +27,4 @@ This repo contains solutions for all programming assignments in **deeplearning.a
 * **Sequence Models**
   * Week 1 **(Recurrent Neural Networks)**
   * Week 2 **(Natural Language Processing and Word Embeddings)**
+  * Week 3 **(Sequence Models and Attention Mechanism)**

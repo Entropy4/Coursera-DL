@@ -3,6 +3,5 @@
 ## Contents:
   * Week 1 Programming Assignments **(Recurrent Neural Networks)**
   * Week 2 Programming Assignments **(Natural Language Processing and Word Embeddings)**
-  
-## Coming Soon:
-  * Week 3 Programming Assignments **(Sequence Models and Attention Mechanism)**
+  * Week 3 Programming Assignments **(Sequence Models and Attention Mechanism)**  
+

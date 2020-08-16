@@ -7,7 +7,7 @@ This repo contains solutions for all programming assignments in **deeplearning.a
   4.  [**Convolutional Neural Networks**](https://www.coursera.org/learn/convolutional-neural-networks)
   5.  [**Sequence Models**](https://www.coursera.org/learn/nlp-sequence-models)
   
-## Available Solutions
+## Index of all Solutions
 * **Neural Networks and Deep Learning**  
   * Week 2 **(Neural Networks Basics)**
   * Week 3 **(Shallow Neural Networks)**
